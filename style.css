@@ -126,6 +126,41 @@
     background: rgba(71, 125, 17, 0.15);
 }
 
+.flower-textt{
+    margin-left: 90px;
+    margin-top: 30px;
+}
+
+.flower-1{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: 190px;
+    padding: 1px;
+  
+}
+
+.flower-2{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: 190px;
+
+}
+.flower-3{
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+   
+
+}
+
 .area-birthday{
     margin-left: 130px;
    
@@ -319,7 +354,7 @@
     font-size: 20px;
     margin-left: 280px;
     border-radius: 5px;
-    /* margin-top: 15px; */
+    
    
 }
 
