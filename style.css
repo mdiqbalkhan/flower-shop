@@ -1,16 +1,16 @@
 
-
-
 *{
     margin: 0px;
     padding: 0px;
+    /* google fonts */
+
     font-family: 'Lato', sans-serif;
 }
 
 
 
-/* google fonts link  */
 
+/* .nav-container start  */
 
 .nav-container{
     
@@ -68,9 +68,9 @@
     margin-bottom: -19%
 
 }
+/* nav-container end  */
 
-
-
+ /* featured flower start  */
 .flower-text{
     color: #272727;
     text-align: center;
@@ -162,6 +162,10 @@
 
 }
 
+/* featured flower end  */
+
+/* birthday area start */
+
 .area-birthday{
     margin-left: 130px;
    
@@ -242,12 +246,14 @@
 
 }
 
+/* birthday area end */
 
 
 
 
 
-/*  */
+
+ /* featured area start  */
 .featured-area{
    
     background-color: rgba(229, 84, 115, 0.10);
@@ -311,8 +317,10 @@
     color: #E55473;
 }
 
+ /* featured area end  */
 
 
+ /* Instagram area start  */
 
 .text-instagram{
     color: #272727;
@@ -348,6 +356,9 @@
     
   
 }
+ /* Instagram area end  */
+
+ /* form box area start */
 
 .box-form{
     background-image: url('./Flower\ Asset/Rectangle 9.png');
@@ -424,9 +435,11 @@
     
 }
 
+ /* form box area end */
 
 
-/* footer area  */
+
+/* footer area  start */
 
 .footer-area{
    
@@ -482,3 +495,5 @@
 .area-footer{
     margin-top: 50px;
 }
+
+/* footer area end  */
